@@ -6,15 +6,15 @@
     "description": "Custom ready-to-wear garments. High-quality fabrics with fast global shipping.",
     "price": 29.99,
     "moq": 100,
-    "image": "images/product-apparel.jpg",
+    "image": "images/1.jpg",
     "category": "Apparel & Textiles",
     "supplierId": 1,
     "inStock": true,
     "link": "#",
     "gallery": [
-      "images/product-apparel-1.jpg",
-      "images/product-apparel-2.jpg",
-      "images/product-apparel-3.jpg"
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -24,7 +24,7 @@
     "description": "Latest IoT gadgets and smart home systems. Certified quality and low MOQs.",
     "price": 49.99,
     "moq": 50,
-    "image": "images/product-electronics.jpg",
+    "image": "images/2.jpg",
     "category": "Electronics & Gadgets",
     "supplierId": 2,
     "inStock": true,
@@ -42,7 +42,7 @@
     "description": "Bulk supply of construction materials, including steel rebar and finishes.",
     "price": 89.99,
     "moq": 20,
-    "image": "images/product-steel.jpg",
+    "image": "images/3.jpg",
     "category": "Industrial Materials",
     "supplierId": 3,
     "inStock": true,
@@ -60,7 +60,7 @@
     "description": "High-end fragrance compounds for private label manufacturing.",
     "price": 39.99,
     "moq": 30,
-    "image": "images/product-fragrance.jpg",
+    "image": "images/4.jpg",
     "category": "Chemicals & Cosmetics",
     "supplierId": 4,
     "inStock": true,
@@ -72,49 +72,13 @@
     ]
   },
     {
-    "id": "P04",
-    "number": "04",
-    "name": "Luxury Fragrance Oils",
-    "description": "High-end fragrance compounds for private label manufacturing.",
-    "price": 39.99,
+    "id": "P05",
+    "number": "05",
+    "name": "Luxury ma tamora",
+    "description": "High-end fragrance private label manufacturing.",
+    "price": 79.99,
     "moq": 30,
-    "image": "images/product-fragrance.jpg",
-    "category": "Chemicals & Cosmetics",
-    "supplierId": 4,
-    "inStock": true,
-    "link": "#",
-    "gallery": [
-      "images/product-fragrance-1.jpg",
-      "images/product-fragrance-2.jpg",
-      "images/product-fragrance-3.jpg"
-    ]
-  },
-    {
-    "id": "P04",
-    "number": "04",
-    "name": "Luxury Fragrance Oils",
-    "description": "High-end fragrance compounds for private label manufacturing.",
-    "price": 39.99,
-    "moq": 30,
-    "image": "images/product-fragrance.jpg",
-    "category": "Chemicals & Cosmetics",
-    "supplierId": 4,
-    "inStock": true,
-    "link": "#",
-    "gallery": [
-      "images/product-fragrance-1.jpg",
-      "images/product-fragrance-2.jpg",
-      "images/product-fragrance-3.jpg"
-    ]
-  },
-    {
-    "id": "P04",
-    "number": "04",
-    "name": "Luxury Fragrance Oils",
-    "description": "High-end fragrance compounds for private label manufacturing.",
-    "price": 39.99,
-    "moq": 30,
-    "image": "images/product-fragrance.jpg",
+    "image": "images/5.jpg",
     "category": "Chemicals & Cosmetics",
     "supplierId": 4,
     "inStock": true,
