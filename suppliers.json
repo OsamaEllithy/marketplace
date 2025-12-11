@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Fashion Manufacturers",
+    "category": "Apparel & Textiles",
+    "country": "Turkey",
+    "rating": 4.9,
+    "image": "images/supplier-fashion.jpg",
+    "description": "Specialized in high-end garments, private-label manufacturing, and bulk production.",
+    "hover_info": "Trusted supplier for 120+ global fashion brands"
+  },
+  {
+    "id": 2,
+    "name": "Certified Electronics Producers",
+    "category": "Electronics & Gadgets",
+    "country": "China",
+    "rating": 4.8,
+    "image": "images/supplier-electronics.jpg",
+    "description": "Offering low MOQs and certified quality for the latest IoT gadgets and smart home systems.",
+    "hover_info": "ISO 9001 certified, 5-star quality rating"
+  },
+  {
+    "id": 3,
+    "name": "Industrial Machinery Makers",
+    "category": "Industrial Materials",
+    "country": "Germany",
+    "rating": 4.7,
+    "image": "images/supplier-machinery.jpg",
+    "description": "Bulk supply of high-grade construction materials and industrial-grade steel.",
+    "hover_info": "Global standard compliance & fast delivery"
+  },
+  {
+    "id": 4,
+    "name": "Luxury Fragrance Labs",
+    "category": "Chemicals & Cosmetics",
+    "country": "France",
+    "rating": 4.9,
+    "image": "images/supplier-fragrance.jpg",
+    "description": "High-end fragrance compounds and private label formulation services.",
+    "hover_info": "Exclusivity guaranteed for private labeling"
+  }
+]
